@@ -12,8 +12,9 @@ Every project here is a blueprint toward reasoning-based AGI.
 |--------|-------------|--------|
 | 🔧 [CortanaPlusPlus](https://github.com/MedhaviMonish/CortanaPlusPlus) | Custom C++/CUDA ML engine from scratch. No PyTorch. No TensorFlow. Pure control. | 🛠 In Progress |
 | 🧠 [RILITH](https://github.com/MedhaviMonish/RILITH) | Reinforcement-Induced Logic in the Thinking Hierarchy — PPO-based AGI reasoning. | 🧪 Design Finalized |
-| 🧩 [GreedyContext](https://github.com/MedhaviMonish/GreedyContext) | Compresses LLM input context by tracing the most relevant semantic path. | ✅ Complete |
+| 🌱 [Darwins-Silicate-Organism](https://github.com/MedhaviMonish/Darwins-Silicate-Organism) | Evolution-inspired simulation of artificial lifeforms learning memory, curiosity, and survival. | ⏳ Not Started |
 | 🧬 [TwinSqueeze](https://github.com/MedhaviMonish/TwinSqueeze) | Siamese network for compressing MiniLM embeddings from 384 to ≤64 dims. | ⏳ Not Started |
+| 🧩 [GreedyContext](https://github.com/MedhaviMonish/GreedyContext) | Compresses LLM input context by tracing the most relevant semantic path. | ✅ Complete |
 | 🌐 [Stream-JSON](https://github.com/MedhaviMonish/Stream-JSON) | Real-time parser for partial or token-level JSON/YAML LLM outputs. | ✅ Complete |
 
 ---
