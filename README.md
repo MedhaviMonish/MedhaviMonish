@@ -1,6 +1,4 @@
-# 👋 Medhavi Monish — The AI Blacksmith
-
-![AI Blacksmith](https://img.shields.io/badge/AI%20Blacksmith-Forging%20Intelligence-blueviolet?style=flat-square)
+# 👋 Medhavi Monish — The AI Blacksmith ![AI Blacksmith](https://img.shields.io/badge/AI%20Blacksmith-Forging%20Intelligence-blueviolet?style=flat-square)
 
 Hi, I’m Medhavi — a systems-focused AI builder crafting intelligence from first principles.
 I don’t just train models — I **forge thought**, shape logic, and challenge assumptions.
