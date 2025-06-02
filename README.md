@@ -14,19 +14,19 @@ Every project here is a blueprint toward reasoning-based AGI.
 | 🧠 [RILITH](https://github.com/MedhaviMonish/RILITH)                                       | Reinforcement-Induced Logic in the Thinking Hierarchy — PPO-based AGI reasoning.                | 🧪 Design Finalized |
 | 🌱 [Darwins-Silicate-Organism](https://github.com/MedhaviMonish/Darwins-Silicate-Organism) | Evolution-inspired simulation of artificial lifeforms learning memory, curiosity, and survival. | ⏳ Not Started       |
 | 🧬 [TwinSqueeze](https://github.com/MedhaviMonish/TwinSqueeze)                             | Siamese network for compressing MiniLM embeddings from 384 to ≤64 dims.                         | ⏳ Not Started       |
-| 🧹 [GreedyContext](https://github.com/MedhaviMonish/GreedyContext)                         | Compresses LLM input context by tracing the most relevant semantic path.                        | ✅ Complete          |
+| 🧩 [GreedyContext](https://github.com/MedhaviMonish/GreedyContext)                         | Compresses LLM input context by tracing the most relevant semantic path.                        | ✅ Complete          |
 | 🌐 [Stream-JSON](https://github.com/MedhaviMonish/Stream-JSON)                             | Real-time parser for partial or token-level JSON/YAML LLM outputs.                              | ✅ Complete          |
 
 ---
 
 ## 🧬 The Bigger Vision
 
-I believe AGI won’t emerge from brute-force training — but from agents that learn to **reason**, **remember**, and **survive**.
+I believe AGI won’t emerge from brute-force training — but from **ecosystems of AI modules** that learn to **reason**, **remember**, and **survive**.
 My work combines:
 
 * 🧠 **Step-wise RL** instead of token prediction
 * 💡 Modular memory, curiosity, and reward models
-* ⟲ Ecosystems of small interacting models — not just one monolithic net
+* 🔁 Ecosystems of small interacting **AI modules** — not just one monolithic net
 
 These projects are part of that roadmap.
 
@@ -44,7 +44,7 @@ These projects are part of that roadmap.
 
 * 💬 [LinkedIn](https://www.linkedin.com/in/medhavi-monish-a327ba169/)
 * 🧠 [GitHub Projects](https://github.com/MedhaviMonish?tab=repositories)
-* 📧 [monishmedhavi@gmail.com](mailto:monishmedhavi@gmail.com)
+* ✉️ [monishmedhavi@gmail.com](mailto:monishmedhavi@gmail.com)
 * 🌐 [My Blog](https://medhavimonish.github.io/) — reflections, architecture breakdowns & experimental logs
 
 ---
